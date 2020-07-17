@@ -1,6 +1,6 @@
 # Processador Multiciclo
 
-Projeto desenvolvido em VDHL para simular o comportamento de um processador com arquitetura multiciclo, o qual recebe intruções de 13 bits e realiza operações de armazenamento e leitura em registradores, e operações lógicas e aritiméticas na ULA.
+Projeto desenvolvido em VDHL para simular o comportamento de um processador com arquitetura multiciclo, o qual recebe intruções de 13 bits e realiza operações de armazenamento e leitura em registradores, operações lógicas e aritiméticas na ULA, e comparações.
 
 # Arquitetura
 
