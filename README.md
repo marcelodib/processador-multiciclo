@@ -5,8 +5,8 @@ Projeto desenvolvido em VDHL para simular o comportamento de um processador com 
 # Arquitetura
 
 <img src="https://raw.githubusercontent.com/marcelodib/processador-multiciclo/master/assets/arquitetura.png" alt="arquitetura multiciclo" align="left" />
+</br>
 
-<br>
 # Máquina de estados
 
 <img src="https://raw.githubusercontent.com/marcelodib/processador-multiciclo/master/assets/maquina-de-estados.png" alt="maquina de estados" align="left" />
