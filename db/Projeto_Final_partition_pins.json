@@ -1,0 +1,129 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Riout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Riout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Rjout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[10]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[11]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[12]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[0]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[9]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[8]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[1]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[2]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[3]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[4]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[5]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[6]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
